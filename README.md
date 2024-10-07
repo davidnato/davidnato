@@ -2,7 +2,7 @@ Here's an updated GitHub bio with more graphic badges and a bit more flair:
 
 ---
 
-# 👋 Hi, I’m **Wanyii Papah**!
+# 👋 Hi, I’m **David Wanyama Nato but you can just call me Wanyii Papah**!
 
 ## 💻 **Full-Stack Mobile & Web Developer | 🎨 Graphics Designer | 🎥 Video Editor**
 
@@ -56,10 +56,7 @@ I’m a proactive and passionate developer specializing in **Mobile Development*
 
 ### 📫 **Get in Touch**  
 If you’d like to discuss collaboration, code reviews, or just connect, feel free to reach out!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-nato-449592215)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidnato_)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidnato)  
 
----  
-
-Feel free to adjust the links and profile details to your preference!
