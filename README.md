@@ -1,7 +1,3 @@
-Here's an updated GitHub bio with more graphic badges and a bit more flair:
-
----
-
 # 👋 Hi, I’m **David Wanyama Nato but you can just call me Wanyii Papah**!
 
 ## 💻 **Full-Stack Mobile & Web Developer | 🎨 Graphics Designer | 🎥 Video Editor**
